@@ -4,6 +4,8 @@
 
 Welcome to the **Tic-Tac-Toe Game**! This is a classic 3x3 grid game, built using **JavaScript**, **CSS**, and **HTML**. The game allows two players to play against each other in a simple, interactive environment. Players alternate marking spaces in a 3x3 grid with either an "X" or an "O". The first player to align three of their marks vertically, horizontally, or diagonally wins the game.
 
+![Untitled design (20)](https://github.com/user-attachments/assets/5a7d5511-7006-4184-8756-ef10d3deefd6)
+
 ## 🚀 Live Demo
 
 [View Live Demo](#) *(Replace with the deployed link)*
